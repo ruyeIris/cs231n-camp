@@ -179,3 +179,24 @@
 
 **作业:**  
 1. 学习使用 Deep Q-Network 玩 cartpole 的游戏
+
+### slides_link_one:
+Lecture 1[Lecture 1](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf)
+Lecture 2[Lecture 2](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture02.pdf)
+Lecture 3[Lecture 3](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture03.pdf)
+Lecture 4[Lecture 4](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture04.pdf)
+Lecture 5[Lecture 5](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture05.pdf)
+Lecture 6[Lecture 6](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture06.pdf)
+Lecture 7[Lecture 7](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture07.pdf)
+Lecture 8[Lecture 8](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
+Lecture 9[Lecture 9](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture09.pdf)
+Lecture 10[Lecture 10](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf)
+Lecture 11[Lecture 11](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture11.pdf)
+Lecture 12[Lecture 12](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture12.pdf)
+Lecture 13[Lecture 13](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture13.pdf)
+Lecture 14[Lecture 14](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture14.pdf)
+
+ 
+### slides_link_two:
+Lecture 1[Lecture 1](https://github.com/ruyeIris/cs231n-camp/blob/addSlidesTask/slides/cs231n_2018_lecture01.pdf)
+ 
